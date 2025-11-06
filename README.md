@@ -1,6 +1,7 @@
 # Python Backend Developer 🐍
 
 **Junior Backend Developer** | Django | REST APIs | Databases | System Architecture
+📱 You can contact me via Email: mierkulova.tech@gmail.com  **Location:** Hamburg, Berlin, Germany 📍
 
 ---
 
@@ -122,12 +123,10 @@ Core Curriculum:
 **Q1 2026:**
 - Microservices architecture patterns
 - API gateway implementation
-- Advanced CI/CD pipelines
 
 **Q2 2026:**
 - Team collaboration & code review practices
 - Technical documentation standards
-- Mentoring junior developers
 
 ---
 
@@ -150,17 +149,6 @@ Core Curriculum:
 - 🚀 Projects solving **real-world problems**
 
 **Location:** Hamburg/Berlin area preferred | Remote-friendly
-
----
-
-## 📫 Let's Connect
-
-- **Email:** mierkulova.tech@gmail.com
-- **LinkedIn:** [o-mierkulova](https://www.linkedin.com/in/o-mierkulova/)
-- **GitHub:** [mierkulova-tech](https://github.com/mierkulova-tech)
-- **Location:** Hamburg, Berlin, Germany 📍
-
----
 
 **Open for:**
 - 🐛 [Project issues & collaboration](https://github.com/mierkulova-tech/issues)
