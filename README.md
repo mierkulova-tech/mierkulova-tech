@@ -1,141 +1,185 @@
-# 👋 Hello! I'm Olena | @mierkulova-tech
+# Python Backend Developer 🐍
 
-**Ukrainian Python Backend Developer** building production-ready systems in **Hamburg, Germany** 🇺🇦→🇩🇪
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-mierkulova/)
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/o-mierkulova/)
+**Junior Backend Developer** | Django | REST APIs | Databases | System Architecture
 
 ---
 
-## 🎯 Career Transition Story
+## 👋 About Me
 
-🔧 **From Systems Analysis to Backend Development**  
-🎓 **Education:** Specialist Degree in Management of Organizations with focus on **Higher Mathematics, Statistics, Probability Theory** from O.M. Beketov National University of Urban Economy in Kharkiv  
-📍 **Journey:** Ukraine → Hamburg, Germany  
-💡 **Mission:** Building reliable backend systems that meet German engineering standards while leveraging Ukrainian mathematical rigor
+I'm a Junior Python Backend Developer transitioning from Systems Analysis to backend engineering. Currently based in Hamburg, Germany, with a strong mathematical foundation and proven ability to build production-ready systems. Graduating from ITCareerHub.de Python Backend Developer program in January 2026.
 
-> *"Quality code has no nationality — it's built on solid foundations and attention to detail"*
-
----
-
-## 💻 Technical Skills
-
-### Core Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### Databases & Data Management
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
-
-### DevOps & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-### Development Tools & Environment
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnome-terminal&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-
-## 📚 Professional Development
-
-### 🎓 Current Education
-**ITCareerHub.de** | Python Backend Developer + AI Program  
-📅 Expected Completion: January 2026  
-🎯 **Core Curriculum:** Python, Django, REST API Design, Databases (MongoDB, MySQL, SQLite), Linux System Administration, AWS Fundamentals, AI/ML Basics  
-✅ **Portfolio Projects:** 5 hands-on projects with production-grade code quality standards
-
-### 📖 Certifications
-
-**Google Career Certificates**  
-- 🐍 **Crash Course on Python** (Issued Apr 2025)  
-- 📊 **Ask Questions to Make Data-Driven Decisions** (Issued Apr 2025)  
-- 🗃️ **Foundations: Data, Data, Everywhere** (Issued Jan 2025)  
-
-**Federal Office for Migration and Refugees (BAMF)**  
-- 🇩🇪 **Deutsch-Test für Zuwanderer (B1)** (Issued Feb 2025)  
-- 🏛️ **Leben in Deutschland** (Issued Apr 2025)  
-- 🤝 **Integrationskurs Certificate** (Issued Jul 2025)  
-
-### 🚀 Learning Roadmap
-- **Q4 2025:** Docker containers, AWS services (EC2, S3, RDS), System architecture design
-- **Q1 2026:** Microservices patterns, API gateway implementation, CI/CD pipeline optimization
-- **Q2 2026:** Team leadership fundamentals, technical documentation standards, mentoring junior developers
+**Key Strengths:**
+- 🎯 Strong mathematical & analytical thinking
+- 🐍 Python backend development (Django, FastAPI, REST APIs)
+- 🗄️ Database design & optimization (PostgreSQL, MongoDB, SQLite)
+- 🐳 Docker & containerization basics
+- 🔧 Linux system administration & server management
+- 🌍 German (B1) + English (B1) + Ukrainian, Russian (Native)
 
 ---
 
-## 🤝 Let's Connect!
+## 🛠 Tech Stack
 
-I'm actively seeking opportunities as a **Junior Python Backend Developer** in the **Hamburg/Berlin area**. I bring unique value through:
+**Backend:** Python • Django • Django REST Framework • FastAPI
 
-- 🌟 **Strong mathematical foundation** from Ukrainian university education  
-- 🌟 **Google-certified Python and data analysis skills**  
-- 🌟 **Production experience** with real server recovery and system administration  
-- 🌟 **German language proficiency (B1)** and integration into German society  
-- 🌟 **Analytical thinking** and problem-solving mindset
+**Databases:** PostgreSQL • MongoDB • SQLite • SQL optimization
 
-**I'm open to:**
-- 💼 Junior Python Developer positions in backend development teams
-- 👥 Mentorship from experienced engineers to accelerate my growth
-- 🤝 Collaboration on projects that solve real-world problems  
+**DevOps:** Docker • Linux • Git • GitHub Actions (basic CI/CD)
 
-**Languages:**  
-🇺🇦 Ukrainian (Native) | 🇷🇺 Russian (Native) | 🇪🇳 English (Professional Working Proficiency) | 🇩🇪 German (B1 - Actively Improving)
+**APIs:** REST API Design • Authentication & Authorization • API Testing
+
+**Tools:** Git • Postman • Linux Terminal • VS Code
 
 ---
 
-## 📊 GitHub Activity
+## 📦 Featured Projects
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mierkulova-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mierkulova-tech&layout=compact&theme=radical&langs_count=8"/>
-</p>
+### 🔗 [E-commerce API](#) (Coming Soon)
+Django REST Framework + PostgreSQL backend for online store
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mierkulova-tech&theme=radical" alt="GitHub Streak" />
-</p>
+**Tech:** Django • DRF • PostgreSQL • JWT Auth • Docker
 
----
-
-## 🌐 Community Involvement
-
-- **Active Member** of [PyLadies Berlin](https://www.linkedin.com/company/pyladies-berlin/) and [PyLadies Munich](https://www.linkedin.com/company/pyladies-munich/) communities
-- **Regular Participant** in Hamburg Python meetups and hackathons
-- **Volunteer** for diversity and inclusion initiatives in tech
-- **Contributor** to open-source projects supporting Ukrainian developers in Germany
+**Features:**
+- Full CRUD operations for products & orders
+- JWT-based authentication & role-based access control
+- Order management system with payment tracking
+- Comprehensive API documentation
 
 ---
 
-## 💬 Get in Touch
+### 📊 [Blog Platform API](#) (Coming Soon)
+Lightweight REST API for blog management with user authentication
 
-**Professional Inquiries:**  
-📧 mierkulova.tech@gmail.com (replace with your actual email)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/o-mierkulova/)  
-📍 Hamburg, Germany
+**Tech:** Django • PostgreSQL • Python • REST APIs
 
-**Project Collaboration:**  
-🐛 [Open an Issue](https://github.com/mierkulova-tech/mierkulova-tech/issues) for project ideas  
-🤝 [Pull Requests](https://github.com/mierkulova-tech/mierkulova-tech/pulls) welcome for improvements
-
-**For Recruiters & Hiring Managers:**  
-I'm currently completing my Python Backend Developer training at ITCareerHub.de with expected graduation in January 2026. I'm available for junior positions starting immediately and bring a unique combination of Ukrainian mathematical rigor and German engineering standards to your team.
+**Features:**
+- User authentication & profile management
+- Create, read, update, delete blog posts
+- Comments system with nested replies
+- Full-text search functionality
 
 ---
 
-<p align="center">
-  <em>"From Ukrainian classrooms to German production systems — building the future, one line of code at a time"</em>
-</p>
+### 🕷️ [Web Scraper & Data Pipeline](#) (Coming Soon)
+ETL pipeline for collecting and processing data from multiple sources
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mierkulova-tech&style=flat-square&color=blue" alt="Profile views" />
-</p>
+**Tech:** Python • BeautifulSoup • Async/Await • MongoDB • Pandas
+
+**Features:**
+- Asynchronous web scraping for performance
+- Data validation & cleaning
+- MongoDB storage with indexing
+- CSV export functionality
+
+---
+
+### 🎮 [Task Manager CLI Application](#) (Coming Soon)
+Command-line task management tool with persistent storage
+
+**Tech:** Python • SQLite • Click • JSON
+
+**Features:**
+- Create, update, delete tasks via CLI
+- Task categories & priority levels
+- Due date tracking & reminders
+- Data persistence with SQLite
+
+---
+
+## 🎓 Education & Certifications
+
+### Python Backend Developer Program
+**ITCareerHub.de** | Expected Graduation: January 2026
+
+Core Curriculum:
+- Python fundamentals & OOP
+- Django & REST API design patterns
+- Database design (SQL & NoSQL)
+- Docker & containerization
+- AWS fundamentals (EC2, S3, RDS)
+- Linux system administration
+- CI/CD pipeline implementation
+
+### Google Career Certificates
+- 🐍 **Crash Course on Python** — Apr 2025
+- 📊 **Ask Questions to Make Data-Driven Decisions** — Apr 2025
+- 🗃️ **Foundations: Data, Data, Everywhere** — Jan 2025
+
+### Language Certifications
+- 🇩🇪 **Deutsch-Test für Zuwanderer (B1)** — Feb 2025
+- 🇩🇪 **Leben in Deutschland** — Apr 2025
+- 🤝 **BAMF Integrationskurs Certificate** — Jul 2025
+
+---
+
+## 💡 Learning Journey
+
+**Q4 2025:**
+- Advanced Docker & Docker Compose
+- AWS services (EC2, S3, RDS)
+- System architecture & scalability
+
+**Q1 2026:**
+- Microservices architecture patterns
+- API gateway implementation
+- Advanced CI/CD pipelines
+
+**Q2 2026:**
+- Team collaboration & code review practices
+- Technical documentation standards
+- Mentoring junior developers
+
+---
+
+## 🌐 Community & Open Source
+
+- **Active Member:** PyLadies Berlin & Munich communities
+- **Participant:** Hamburg Python meetups & hackathons
+- **Contributing to:** Open-source projects (Ukrainian developer support initiatives)
+- **Volunteer:** Diversity & inclusion initiatives in tech
+
+*Currently looking for first open-source contributions to expand experience.*
+
+---
+
+## 📈 What I'm Looking For
+
+- 💼 **Junior Python Backend Developer** positions
+- 🎯 Teams that value **code quality & learning**
+- 🤝 Mentorship opportunities from experienced engineers
+- 🚀 Projects solving **real-world problems**
+
+**Location:** Hamburg/Berlin area preferred | Remote-friendly
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** mierkulova.tech@gmail.com
+- **LinkedIn:** [o-mierkulova](https://www.linkedin.com/in/o-mierkulova/)
+- **GitHub:** [mierkulova-tech](https://github.com/mierkulova-tech)
+- **Location:** Hamburg, Berlin, Germany 📍
+
+---
+
+**Open for:**
+- 🐛 [Project issues & collaboration](https://github.com/mierkulova-tech/issues)
+- 🤝 Pull requests & code reviews
+- 💬 Technical discussions & mentorship
+- 🔗 Freelance backend projects
+
+---
+
+## 🎯 Quick Stats
+
+```
+Lines of Python Code Written: 5,000+
+Projects Completed: 5+ (portfolio building)
+Google Certifications: 3
+GitHub Contributions: Active (building consistency)
+Currently Learning: Docker, AWS, Microservices
+```
+
+---
+
+**"Building reliable backend systems with Ukrainian mathematical rigor and German engineering standards"** 🇺🇦 → 🇩🇪
