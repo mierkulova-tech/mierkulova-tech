@@ -14,80 +14,10 @@ I'm a Junior Python Backend Developer transitioning from Systems Analysis to bac
 **Key Strengths:**
 - 🎯 Strong mathematical & analytical thinking
 - 🐍 Python backend development (Django, FastAPI, REST APIs)
-- 🗄️ Database design & optimization (PostgreSQL, MongoDB, SQLite)
+- 🗄️ Database design & optimization (MongoDB, SQLite)
 - 🐳 Docker & containerization basics
 - 🔧 Linux system administration & server management
 - 🌍 German (B1) + English (B1) + Ukrainian, Russian (Native)
-
----
-
-## 🛠 Tech Stack
-
-**Backend:** Python • Django • Django REST Framework • FastAPI
-
-**Databases:** PostgreSQL • MongoDB • SQLite • SQL optimization
-
-**DevOps:** Docker • Linux • Git • GitHub Actions (basic CI/CD)
-
-**APIs:** REST API Design • Authentication & Authorization • API Testing
-
-**Tools:** Git • Postman • Linux Terminal • VS Code
-
----
-
-## 📦 Featured Projects
-
-### 🔗 [E-commerce API](#) (Coming Soon)
-Django REST Framework + PostgreSQL backend for online store
-
-**Tech:** Django • DRF • PostgreSQL • JWT Auth • Docker
-
-**Features:**
-- Full CRUD operations for products & orders
-- JWT-based authentication & role-based access control
-- Order management system with payment tracking
-- Comprehensive API documentation
-
----
-
-### 📊 [Blog Platform API](#) (Coming Soon)
-Lightweight REST API for blog management with user authentication
-
-**Tech:** Django • PostgreSQL • Python • REST APIs
-
-**Features:**
-- User authentication & profile management
-- Create, read, update, delete blog posts
-- Comments system with nested replies
-- Full-text search functionality
-
----
-
-### 🕷️ [Web Scraper & Data Pipeline](#) (Coming Soon)
-ETL pipeline for collecting and processing data from multiple sources
-
-**Tech:** Python • BeautifulSoup • Async/Await • MongoDB • Pandas
-
-**Features:**
-- Asynchronous web scraping for performance
-- Data validation & cleaning
-- MongoDB storage with indexing
-- CSV export functionality
-
----
-
-### 🎮 [Task Manager CLI Application](#) (Coming Soon)
-Command-line task management tool with persistent storage
-
-**Tech:** Python • SQLite • Click • JSON
-
-**Features:**
-- Create, update, delete tasks via CLI
-- Task categories & priority levels
-- Due date tracking & reminders
-- Data persistence with SQLite
-
----
 
 ## 🎓 Education & Certifications
 
@@ -113,24 +43,6 @@ Core Curriculum:
 - 🇩🇪 **Leben in Deutschland** — Apr 2025
 - 🤝 **BAMF Integrationskurs Certificate** — Jul 2025
 
----
-
-## 💡 Learning Journey
-
-**Q4 2025:**
-- Advanced Docker & Docker Compose
-- AWS services (EC2, S3, RDS)
-- System architecture & scalability
-
-**Q1 2026:**
-- Microservices architecture patterns
-- API gateway implementation
-
-**Q2 2026:**
-- Team collaboration & code review practices
-- Technical documentation standards
-
----
 
 ## 🌐 Community & Open Source
 
@@ -157,19 +69,5 @@ Core Curriculum:
 - 🤝 Pull requests & code reviews
 - 💬 Technical discussions & mentorship
 - 🔗 Freelance backend projects
-
----
-
-## 🎯 Quick Stats
-
-```
-Lines of Python Code Written: 5,000+
-Projects Completed: 5+ (portfolio building)
-Google Certifications: 3
-GitHub Contributions: Active (building consistency)
-Currently Learning: Docker, AWS, Microservices
-```
-
----
 
 **"Building reliable backend systems with Ukrainian mathematical rigor and German engineering standards"** 🇺🇦 → 🇩🇪
