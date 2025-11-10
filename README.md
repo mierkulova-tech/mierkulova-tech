@@ -3,6 +3,7 @@
 **Junior Backend Developer** | Django | REST APIs | Databases | System Architecture
 
 📱 You can contact me via Email: mierkulova.tech@gmail.com
+
 **Location:** Hamburg, Berlin, Germany 📍
 
 ---
