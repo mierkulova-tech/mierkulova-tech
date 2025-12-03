@@ -1,6 +1,6 @@
 # Python Backend Developer 🐍
 
-**Junior Backend Developer** | Django | REST APIs | Databases | System Architecture
+**Curious & Ambitious Python Backend Developer** | Django | REST APIs | Databases | System Architecture
 
 📱 You can contact me via Email: mierkulova.tech@gmail.com
 
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a Junior Python Backend Developer transitioning from Systems Analysis to backend engineering. Currently based in Hamburg, Germany, with a strong mathematical foundation and proven ability to build production-ready systems. Graduating from ITCareerHub.de Python Backend Developer program in January 2026.
+I'm a Curious & Ambitious Python Backend Developer transitioning from Systems Analysis to backend engineering. Currently based in Hamburg, Germany, with a strong mathematical foundation and proven ability to build production-ready systems. Graduating from ITCareerHub.de Python Backend Developer program in January 2026.
 
 **Key Strengths:**
 - 🎯 Strong mathematical & analytical thinking
@@ -58,7 +58,7 @@ Core Curriculum:
 
 ## 📈 What I'm Looking For
 
-- 💼 **Junior Python Backend Developer** positions
+- 💼 **Python Backend Developer** positions
 - 🎯 Teams that value **code quality & learning**
 - 🤝 Mentorship opportunities from experienced engineers
 - 🚀 Projects solving **real-world problems**
