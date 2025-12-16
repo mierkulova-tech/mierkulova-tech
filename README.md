@@ -1,4 +1,4 @@
-# Python Backend Developer 🐍
+# Python Backend Developer 🐍 # Digital Detective 🕵️‍♀️
 
 **Curious & Ambitious Python Backend Developer** | Django | REST APIs | Databases | System Architecture
 
