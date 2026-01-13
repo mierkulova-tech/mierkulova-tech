@@ -25,7 +25,7 @@ I'm a Curious & Ambitious Python Backend Developer transitioning from Systems An
 ## 🎓 Education & Certifications
 
 ### Python Backend Developer Program
-**ITCareerHub.de** | Expected Graduation: January 2026
+**ITCareerHub.de** | Expected Graduation: July 2026
 
 Core Curriculum:
 - Python fundamentals & OOP
