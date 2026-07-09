@@ -1,8 +1,6 @@
-# Python Backend Developer 🐍 # Digital Detective 🕵️‍♀️
+# Python Backend Developer 
 
 **Curious & Ambitious Python Backend Developer** | Django | REST APIs | Databases | System Architecture
-
-**Digital Detective in Training** | Python • Log Analysis • SOC Fundamentals | Learning Cybersecurity via TryHackMe
 
 📱 You can contact me via Email: mierkulova.tech@gmail.com
 
